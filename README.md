@@ -9,12 +9,12 @@ A little about me 🎊
 
 - Professional Developer 🎓 from Digital House - 2022
 - Currently studying a Backend Specialization at Digital House
-- I am passionate about music 🎶, I love metal and singing 🤘🏽🤘🏽🤘🏽
-	- Checkout: Jinjer, Cellar Darling, Blackbriar, Spiritbox, Xandria, Adivarius, Miasthenia, Diablo Swing Orchestra. All 👌🏽 female 👌🏽 singers 👌🏽 [More on this here](https://obscurifymusic.com/profile?id=31o7vvvw7lz3s3dtnjho5a6lk37e&code=7052ed77bc8157dc) 👈🏽
 - I consider that life is better if it is exquisite designed ❤🎨
 - I proactively seek to improve myself and contribute with others 👩🏽💻
 - 🔭 I’m currently working on improve my skills in JAVA 💪🏽
-- 🌱 I’m currently learning how to implement microservices architecture using JAVA and Springboot, also a little of MySQL 🧘🏽‍♀️ 
+- 🌱 I’m currently learning how to implement microservices architecture using JAVA and Springboot, also a little of MySQL 🧘🏽‍♀️
+- I am passionate about music 🎶, I love metal and singing 🤘🏽🤘🏽🤘🏽
+	- Checkout this: Jinjer, Cellar Darling, Blackbriar, Spiritbox, Xandria, Adivarius, Miasthenia, Diablo Swing Orchestra. All 👌🏽 female 👌🏽 singers 👌🏽 [More on this here](https://obscurifymusic.com/profile?id=31o7vvvw7lz3s3dtnjho5a6lk37e&code=7052ed77bc8157dc) 👈🏽 
 
 
 ### 👩🏽‍💻 Languages and Tools 👩🏽‍💻
