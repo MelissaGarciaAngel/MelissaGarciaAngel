@@ -18,9 +18,9 @@ A little about me 🎊
 
 
 ### 👩🏽‍💻 Languages and Tools 👩🏽‍💻
-![](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/MelissaGarciaAngel) ![](https://img.shields.io/badge/-Spring-g?style=flat&logo=spring&logoColor=white&link=https://github.com/MelissaGarciaAngel) ![](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/MelissaGarciaAngel)   ![](https://img.shields.io/badge/-Spring_Microservices-g?style=flat&logo=spring&logoColor=white&link=https://github.com/MelissaGarciaAngel)  ![](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/MelissaGarciaAngel)
+![JAVA](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/MelissaGarciaAngel) ![SP](https://img.shields.io/badge/-Spring-g?style=flat&logo=spring&logoColor=white&link=https://github.com/MelissaGarciaAngel) ![SPB](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/MelissaGarciaAngel) ![SPMS](https://img.shields.io/badge/-Spring_Microservices-g?style=flat&logo=spring&logoColor=white&link=https://github.com/MelissaGarciaAngel) ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven) ![SQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/MelissaGarciaAngel)
 
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/MelissaGarciaAngel) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/MelissaGarciaAngel)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/MelissaGarciaAngel) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/MelissaGarciaAngel)
 
 ### ✅ Listado de repositorios ✅
 
