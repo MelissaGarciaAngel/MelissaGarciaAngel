@@ -32,11 +32,11 @@ A little about me 🎊
 Visit my profile 👉🏽 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/MelissaGarciaAngel)](https://github.com/MelissaGarciaAngel)
 
 
-<a href="https://github.com/jonathanvictorica" align="center">
+<a href="https://github.com/melissagarciaangel" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissagarciaangel&theme=radical" />
 </a>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/melissagarciaangel/count.svg" />
+  <img src="https://profile-counter.glitch.me/melissagarciaange/count.svg" />
 </p>
