@@ -38,5 +38,5 @@ Visit my profile 👉🏽 [![GitHub](https://img.shields.io/badge/-GitHub-181717
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/melissagarciaange/count.svg" />
+  <img src="https://profile-counter.glitch.me/melissagarciaangel/count.svg" />
 </p>
